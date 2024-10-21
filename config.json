@@ -1,0 +1,20 @@
+{
+    "window_size": [
+        1024,
+        768
+    ],
+    "splitter_sizes": [
+        199,
+        598,
+        199
+    ],
+    "db_file": "data.db",
+    "files_folder": "files",
+    "icons_folder": "icons",
+    "log_file": "app.log",
+    "search_window_size": [
+        600,
+        400
+    ],
+    "window_geometry": "01d9d0cb0003000000000063000000450000046400000364000000640000006400000463000003630000000000000000078000000064000000640000046300000363"
+}
